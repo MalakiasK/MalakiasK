@@ -1,4 +1,13 @@
-## Hi there 👋
+## Overview
+
+This GitHub page houses excerpts from university courses.
+
+I'm majoring in Signal Processing and Machine Learning.
+Minor in Embedded Systems.
+
+COMP.CS.100: Python, Coding Basics
+COMP.CS.110: C++, Structures
+COMP.CS.300: C++, Structures, graphs, algorithms and optimization
 
 <!--
 **MalakiasK/MalakiasK** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
