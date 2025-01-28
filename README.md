@@ -1,9 +1,9 @@
 ## Overview
 
-This GitHub page houses excerpts from university courses.\
+This GitHub page houses excerpts from university courses.
 
 I'm majoring in Signal Processing and Machine Learning.\
-Minor in Embedded Systems.\
+Minor in Embedded Systems.
 
 COMP.CS.100: Python, Coding Basics\
 COMP.CS.110: C++, Structures\
